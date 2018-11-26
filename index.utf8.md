@@ -7,23 +7,40 @@ nataliaciranova@gmail.com
 
 I am a postgraduate student in the University of Glasgow's [Institute of Neuroscience and Psychology](http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/). I am currently studying for the MSc Research methods of psychological science with my supervisor [Dr Esther Papies](https://www.gla.ac.uk/schools/psychology/staff/estherpapies/). My Master thesis is examining social influence as social norms and their effect on consumer choices in the context of food sustainability. 
 
+\\newline
+
 
 ###Research Interest
 
 My research interest lays close to the topic of my current thesis within the context of sustainability and social influence. I am interested in the mechanisms of social norms and their potential long term effects on consumers' purchase choices.
 
 
+\\newline \\newline 
+
+
 ###Education
-#####2018 - present  	University of Glasgow, Scotland (MSc)
-                  Currently studying for MSc Research Methods of Psychological Science, Thesis in the theme of food sustainability and normative pressure,                                         supervisor: Esther Papies
 
-#####2015 - 2018 	  	Lancaster University, UK
-                  BSc Hons Marketing with Psychology
+####MSc at University of Glasgow, Scotland (2018 - present)
+
+Currently studying for MSc Research Methods of Psychological Science, Thesis in the theme of food sustainability and normative pressure, supervisor: Esther Papies
+
+
+####Lancaster University, UK (2015 - 2018)
+
+BSc Hons Marketing with Psychology
+
                 
-#####2018		        	Lancaster Excellence Award, Lancaster University-]
-                  Acknowledgement for extracurricular activities, development of new skills  and enhancement of employment prospects
+####Lancaster Excellence Award, Lancaster University (2018)
 
-#####2007 - 2015		    Gymnasium na Ulici Ladislava Saru (Maturita equivalent to A-levels)
+Acknowledgement for extracurricular activities, development of new skills  and enhancement of employment prospects
+
+
+####Gymnasium na Ulici Ladislava Saru (2007-2015)
+
+Maturita equivalent to A-levels) 
+
+
+\\newline \\newline 
 
 
 ### Research Experience
