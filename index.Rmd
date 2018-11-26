@@ -7,7 +7,7 @@ nataliaciranova@gmail.com
 
 I am a postgraduate student in the University of Glasgow's [Institute of Neuroscience and Psychology](http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/). I am currently studying for the MSc Research methods of psychological science with my supervisor [Dr Esther Papies](https://www.gla.ac.uk/schools/psychology/staff/estherpapies/). My Master thesis is examining social influence as social norms and their effect on consumer choices in the context of food sustainability. 
 
-\newline 
+\newline \newline 
 
 
 ###Research Interest
@@ -15,7 +15,7 @@ I am a postgraduate student in the University of Glasgow's [Institute of Neurosc
 My research interest lays close to the topic of my current thesis within the context of sustainability and social influence. I am interested in the mechanisms of social norms and their potential long term effects on consumers' purchase choices.
 
 
-\newline 
+\newline \newline 
 
 
 ###Education
@@ -40,7 +40,7 @@ Acknowledgement for extracurricular activities, development of new skills  and e
 Maturita equivalent to A-levels) 
 
 
-\newline
+\newline \newline 
 
 
 ### Research Experience
